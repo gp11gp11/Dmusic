@@ -39,8 +39,8 @@ $ npm install -g ganache-cli
 Clone the project
 
 ```
-$ git clone https://github.com/UltimateRoman/EduChain.git
-$ cd EduChain
+$ git clone https://github.com/gp11gp11/Dmusic.git
+$ cd dmusic
 ```
 ### Setting up a local Blockchain
 Install dependencies
